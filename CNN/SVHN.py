@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 22 09:34:02 2025
-
-@author: tommy
-"""
-
 # svhn_td_vs_baseline.py
 import copy, random, os, sys
 import numpy as np
@@ -341,3 +335,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
