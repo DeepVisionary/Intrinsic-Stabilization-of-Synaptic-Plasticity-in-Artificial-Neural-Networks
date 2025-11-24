@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  6 14:53:07 2025
-
-@author: tommy
-"""
 
 # cifar100_resnet18_td_vs_baseline.py
 import copy, random, os
@@ -337,3 +332,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
