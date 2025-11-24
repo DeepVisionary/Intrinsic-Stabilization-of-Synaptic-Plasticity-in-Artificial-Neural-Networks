@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 16 10:18:30 2025
-
-@author: tommy
-"""
 
 # fashion_mnist_td_vs_baseline.py
 import copy, random, os
@@ -305,3 +300,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
