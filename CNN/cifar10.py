@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  6 14:40:29 2025
-
-@author: tommy
-"""
 
 # cifar10_resnet18_td_vs_baseline.py
 import copy, random, os
@@ -315,4 +310,5 @@ def main():
     plt.show()
 
 if __name__ == "__main__":
+
     main()
